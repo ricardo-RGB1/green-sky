@@ -22,3 +22,4 @@ export const useGetAccounts = () => {
     return query; // Return the query object
 }
 
+ 
